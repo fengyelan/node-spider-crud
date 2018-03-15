@@ -1,0 +1,18 @@
+{
+  "name": "spider-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "fs-extra": "^5.0.0",
+    "mongoose": "^5.0.10",
+    "superagent": "^3.8.2"
+  }
+}
