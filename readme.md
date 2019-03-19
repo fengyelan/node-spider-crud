@@ -26,19 +26,19 @@
 ##### nodejs对数据库mongodb的CRUD操作
 * 数据库图片的信息在表格中展示出来，可以进行删除，编辑，以及根据关键字进行查找
 
-服务器
 
-启动命令 nodemon server.js
+##### server
+* express+mongodb
 
-技术：express
+* nodemon server.js
 
-数据库：mongodb
 
-前端
+##### fe
 
-启动命令 cd fe && npm run dev
+* element + vue + axios
 
-技术：element + vue + axios
+* cd fe && npm run dev
+
 
 
 
