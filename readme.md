@@ -1,6 +1,6 @@
 ##### 网络爬虫
 
-* 爬取的是https://pixabay.com/zh/photos这个网站的图片
+* 爬取的是[图片网站](https://pixabay.com/zh/photos)
 
 * 爬取到图片之后，在本地的pics的文件夹保存了一份爬取到的相关图片，并且把图片的相关信息保存在数据库里面
 
